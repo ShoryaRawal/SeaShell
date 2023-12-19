@@ -12,7 +12,7 @@
 #define CLIPBOARD_SIZE 64
 
 char *splitPath[ARRAY_LEN];
-ichar *argumentList[1];
+char *argumentList[1];
 char *clipboard;
 char binPath[64] = "/bin/";
 char program[64];
